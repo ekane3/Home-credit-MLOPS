@@ -15,3 +15,5 @@ pathlib2
 
 # Environment markers
 poetry
+
+mlflow
