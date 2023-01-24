@@ -1,0 +1,8 @@
+pandas
+numpy
+argparse
+sklearn
+xgboost
+mlflow
+logging
+requests
