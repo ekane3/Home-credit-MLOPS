@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/azagh/Downloads/ML_project_tools-ai/ML_project_tools-c8177c4d73e6a9de1350b769f8193eabaf851490/mlruns/0/5eace2d5f61946319394779f551db51d/artifacts
+end_time: 1674582963369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eace2d5f61946319394779f551db51d
+run_name: legendary-mink-73
+run_uuid: 5eace2d5f61946319394779f551db51d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674582963258
+status: 4
+tags: []
+user_id: anas

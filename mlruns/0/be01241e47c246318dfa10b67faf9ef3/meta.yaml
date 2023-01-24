@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/azagh/Downloads/ML_project_tools-ai/ML_project_tools-c8177c4d73e6a9de1350b769f8193eabaf851490/mlruns/0/be01241e47c246318dfa10b67faf9ef3/artifacts
+end_time: 1674583178430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be01241e47c246318dfa10b67faf9ef3
+run_name: loud-mouse-327
+run_uuid: be01241e47c246318dfa10b67faf9ef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674583178309
+status: 4
+tags: []
+user_id: anas

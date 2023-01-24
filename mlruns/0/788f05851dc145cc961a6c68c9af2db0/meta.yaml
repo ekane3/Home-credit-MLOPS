@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/azagh/Downloads/ML_project_tools-ai/ML_project_tools-c8177c4d73e6a9de1350b769f8193eabaf851490/mlruns/0/788f05851dc145cc961a6c68c9af2db0/artifacts
+end_time: 1674581960203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 788f05851dc145cc961a6c68c9af2db0
+run_name: bustling-moose-724
+run_uuid: 788f05851dc145cc961a6c68c9af2db0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674581960064
+status: 4
+tags: []
+user_id: anas

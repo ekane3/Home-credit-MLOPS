@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/azagh/Downloads/ML_project_tools-ai/ML_project_tools-c8177c4d73e6a9de1350b769f8193eabaf851490/mlruns/0/0e77c06a879f4ad782930a2d9b6c606f/artifacts
+end_time: 1674582780805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e77c06a879f4ad782930a2d9b6c606f
+run_name: handsome-donkey-464
+run_uuid: 0e77c06a879f4ad782930a2d9b6c606f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674582780666
+status: 4
+tags: []
+user_id: anas
